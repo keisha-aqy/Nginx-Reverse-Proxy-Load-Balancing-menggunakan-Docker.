@@ -95,8 +95,8 @@ Python **tidak perlu** diinstal di komputer Anda karena aplikasi berjalan di dal
 ## Menjalankan Project
 
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+git clone https://github.com/keisha-aqy/Nginx-Reverse-Proxy-Load-Balancing-menggunakan-Docker.git
+cd Nginx-Reverse-Proxy-Load-Balancing-menggunakan-Docker
 docker compose up --build -d
 ```
 
